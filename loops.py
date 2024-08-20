@@ -13,6 +13,8 @@
 #    meu_dado = input('Digite algo: ')
 #    break
 
+
+#loops
 carros = ('HB20', 'Onix', 'Argo', 'Sandero')
 for carro in carros:
     print(carro)
